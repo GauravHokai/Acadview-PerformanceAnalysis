@@ -1,4 +1,4 @@
-Survived,Sex,Age,Fare,Pclass_1,Pclass_2,Pclass_3,Embarked_C,Embarked_Q,Embarked_S,FamilySize
+Survived,Sex,Age,Fare,Pclass_1,Pclass_2,Pclass_3,Embarked_0,Embarked_1,Embarked_2,FamilySize
 0,1,22.0,7.25,0,0,1,0,0,1,2
 1,0,38.0,71.2833,1,0,0,1,0,0,2
 1,0,26.0,7.925,0,0,1,0,0,1,1
